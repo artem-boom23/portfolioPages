@@ -78,6 +78,8 @@ function setRusLanguage() {
   getE("your_mail", "Ваша почта ")
   getE("your_message", "Ваше сообщение")
   getE("send", "Отправить сообщение")
+  getEByClass("modal__subtitle", "Извините, отправка сообщений отключена")
+  getEByClass("modal__descr", "Свяжитесь со мной другим способом")
   getE("privacy", "Я согласен(а) с <a href=\"/policy.html\">политикой конфиденциальности</a>")
 
 //Resume
