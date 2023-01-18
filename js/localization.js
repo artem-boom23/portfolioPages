@@ -72,7 +72,7 @@ function setRusLanguage() {
 //contacts
   getE("my_cont", "Контакты")
   getE("contact_me", "Свяжитесь со мной")
-  getE("way", "IЛюбым удобным для вас способом:")
+  getE("way", "Любым удобным для вас способом:")
   getE("leave", "Или оставьте ваши данные и я сам вам напишу:")
   getE("your_name", "Ваше имя")
   getE("your_mail", "Ваша почта ")
